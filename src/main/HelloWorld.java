@@ -15,9 +15,9 @@ public class HelloWorld {
 	//git config --global user.email "nhập email" (làm 1 lần)
 	//git config --global user.name "đặt tên" (làm 1 lần)
 	//git commit -m "first commit"
-	//git branch -M master
+	//!!!!git branch -M !main!(mặc định là master)
 	//git remote add origin https://github.com/KhanhHoang0509/day1.git (làm 1 lần)
-	//git push -u origin master
+	//!!!!git push -u origin !master!((mặc định là master))
 
 
 	public static void main(String[] args) {
