@@ -12,11 +12,11 @@ public class HelloWorld {
 	//câu lệnh git
 	//git init: khởi tạo (làm 1 lần)
 	//git add . :lưu file vào git 
-	//git config --global user.email "nhập email"
-	//git config --global user.name "đặt tên"
+	//git config --global user.email "nhập email" (làm 1 lần)
+	//git config --global user.name "đặt tên" (làm 1 lần)
 	//git commit -m "first commit"
 	//git branch -M master
-	//git remote add origin https://github.com/KhanhHoang0509/day1.git
+	//git remote add origin https://github.com/KhanhHoang0509/day1.git (làm 1 lần)
 	//git push -u origin master
 
 
@@ -25,6 +25,8 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		
 		System.out.println("My name is Khanh");
+		
+		System.out.println("Class name: JDEV-D014");
 	}
 
 }
